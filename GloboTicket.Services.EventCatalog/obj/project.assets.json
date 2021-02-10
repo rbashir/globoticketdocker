@@ -6124,11 +6124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.EventCatalog\\GloboTicket.Services.EventCatalog.csproj",
+      "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.EventCatalog\\GloboTicket.Services.EventCatalog.csproj",
       "projectName": "GloboTicket.Services.EventCatalog",
-      "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.EventCatalog\\GloboTicket.Services.EventCatalog.csproj",
+      "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.EventCatalog\\GloboTicket.Services.EventCatalog.csproj",
       "packagesPath": "C:\\Users\\RizwanBashir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.EventCatalog\\obj\\",
+      "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.EventCatalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

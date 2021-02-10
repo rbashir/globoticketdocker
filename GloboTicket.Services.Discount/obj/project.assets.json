@@ -6124,11 +6124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Discount\\GloboTicket.Services.Discount.csproj",
+      "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Discount\\GloboTicket.Services.Discount.csproj",
       "projectName": "GloboTicket.Services.Discount",
-      "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Discount\\GloboTicket.Services.Discount.csproj",
+      "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Discount\\GloboTicket.Services.Discount.csproj",
       "packagesPath": "C:\\Users\\RizwanBashir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Discount\\obj\\",
+      "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Discount\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

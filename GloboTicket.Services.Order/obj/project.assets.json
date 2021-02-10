@@ -8064,11 +8064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Services.Order\\GloboTicket.Services.Ordering.csproj",
+      "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Order\\GloboTicket.Services.Ordering.csproj",
       "projectName": "GloboTicket.Services.Ordering",
-      "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Services.Order\\GloboTicket.Services.Ordering.csproj",
+      "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Order\\GloboTicket.Services.Ordering.csproj",
       "packagesPath": "C:\\Users\\RizwanBashir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Services.Order\\obj\\",
+      "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Order\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8088,11 +8088,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj": {
-              "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj"
+            "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj": {
+              "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj"
             },
-            "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.MessagingBus\\GloboTicket.Integration.MessagingBus.csproj": {
-              "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.MessagingBus\\GloboTicket.Integration.MessagingBus.csproj"
+            "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.MessagingBus\\GloboTicket.Integration.MessagingBus.csproj": {
+              "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.MessagingBus\\GloboTicket.Integration.MessagingBus.csproj"
             }
           }
         }

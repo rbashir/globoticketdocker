@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj": {}
+    "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj": {
+    "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj",
+        "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj",
         "projectName": "GloboTicket.Integration.Messages",
-        "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj",
+        "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj",
         "packagesPath": "C:\\Users\\RizwanBashir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.Messages\\obj\\",
+        "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.Messages\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

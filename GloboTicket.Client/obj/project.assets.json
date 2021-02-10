@@ -6295,11 +6295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Client\\GloboTicket.Web.csproj",
+      "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Client\\GloboTicket.Web.csproj",
       "projectName": "GloboTicket.Web",
-      "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Client\\GloboTicket.Web.csproj",
+      "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Client\\GloboTicket.Web.csproj",
       "packagesPath": "C:\\Users\\RizwanBashir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Client\\obj\\",
+      "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6319,11 +6319,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Discount\\GloboTicket.Services.Discount.csproj": {
-              "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Discount\\GloboTicket.Services.Discount.csproj"
+            "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Discount\\GloboTicket.Services.Discount.csproj": {
+              "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Discount\\GloboTicket.Services.Discount.csproj"
             },
-            "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.EventCatalog\\GloboTicket.Services.EventCatalog.csproj": {
-              "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.EventCatalog\\GloboTicket.Services.EventCatalog.csproj"
+            "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.EventCatalog\\GloboTicket.Services.EventCatalog.csproj": {
+              "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.EventCatalog\\GloboTicket.Services.EventCatalog.csproj"
             }
           }
         }

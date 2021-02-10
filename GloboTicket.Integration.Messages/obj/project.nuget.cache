@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aN90HUUBpPIiymhVBOv4mjrF8AE1UYFV3ArkdRKt29iSRCA4XJEyDZcaHfEczGdVIwAjl3gl7T20qgK9gADfkA==",
+  "dgSpecHash": "cwFHLX+cbWCidJtmHH7rgMMjqYLPi/FEVc3FTH0J0A/dpHJ6QMOl5QOa2PzvV0z7pZlw2NLs1fZxrGhkcdKQFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj",
+  "projectFilePath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Integration.Messages\\GloboTicket.Integration.Messages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RizwanBashir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

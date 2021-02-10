@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSuNaqY/FKUhccoZVOnCkfFDhGPJXbuhBh2UDFBRH6HDa1auVR6AeMpHAPhwx4JT76lPqU8kViZeIBkCldRjLQ==",
+  "dgSpecHash": "TFWl//jR5+J0qJCQBYXOGQgS8WTDnadKJfCeki2DqYPRcP5BtNNB1vA1i9VJPl4DsJnrPF8ORSF6gQ1AZ5M4NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Client\\GloboTicket.Web.csproj",
+  "projectFilePath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Client\\GloboTicket.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RizwanBashir\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\RizwanBashir\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

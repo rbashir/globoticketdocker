@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj": {}
+    "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj": {
+    "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj",
+        "projectUniqueName": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj",
         "projectName": "GloboTicket.Services.Identity",
-        "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj",
+        "projectPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj",
         "packagesPath": "C:\\Users\\RizwanBashir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Identity\\obj\\",
+        "outputPath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

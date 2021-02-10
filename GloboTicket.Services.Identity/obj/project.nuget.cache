@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WtbHINeva2jVUwOgyz5WbE/JpHNmNEuYPfcZPPbeeQK5SyEEMqkLUBOyQSiTEI2dGFbt04R6wrNQjJszCLyr/Q==",
+  "dgSpecHash": "rUJvkAefbNC+txa7FkbetfxiyRqVD/RpwjPWj67qSs+bdnc5KNQw44Djupjd3nJwgx1jh8T59PWi5LkwDlgY5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\02\\demos\\start - Copy\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj",
+  "projectFilePath": "C:\\Users\\RizwanBashir\\Desktop\\securing-microservices-asp-dot-net-core\\test\\GloboTicket.Services.Identity\\GloboTicket.Services.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RizwanBashir\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\RizwanBashir\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",
