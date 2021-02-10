@@ -7,3 +7,11 @@
 **/bin/Release/*
 /GloboTicket.Services.ShoppingBasket/obj/Debug/netcoreapp3.1
 .vs
+/GloboTicket.Client/obj/Debug/netcoreapp3.1
+/GloboTicket.Integration.Messages/obj/Debug/netstandard2.0
+/GloboTicket.Integration.MessagingBus/obj
+/GloboTicket.Services.Discount/obj/Debug/netcoreapp3.1
+/GloboTicket.Services.EventCatalog/obj/Debug/netcoreapp3.1
+/GloboTicket.Services.Identity/obj/Debug/netcoreapp3.1
+/GloboTicket.Services.Order/obj/Debug/netcoreapp3.1
+.vs/
