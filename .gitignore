@@ -3,5 +3,7 @@
 ################################################################################
 
 /GloboTicket.Integration.MessagingBus/GloboTicket.Integration.MessagingBus.csproj.user
-**/bin/Debug/
-**/bin/Release/
+**/bin/Debug/*
+**/bin/Release/*
+/GloboTicket.Services.ShoppingBasket/obj/Debug/netcoreapp3.1
+.vs
