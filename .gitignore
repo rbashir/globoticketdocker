@@ -5,6 +5,7 @@
 /GloboTicket.Integration.MessagingBus/GloboTicket.Integration.MessagingBus.csproj.user
 **/bin/Debug/*
 **/bin/Release/*
+**/obj/*
 /GloboTicket.Services.ShoppingBasket/obj/Debug/netcoreapp3.1
 .vs
 /GloboTicket.Client/obj/Debug/netcoreapp3.1
@@ -14,4 +15,4 @@
 /GloboTicket.Services.EventCatalog/obj/Debug/netcoreapp3.1
 /GloboTicket.Services.Identity/obj/Debug/netcoreapp3.1
 /GloboTicket.Services.Order/obj/Debug/netcoreapp3.1
-.vs/
+.vs/*
